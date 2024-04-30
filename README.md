@@ -1,5 +1,5 @@
 # Party Pokhara
-App will provides information about all the events happening in around Pokhara with all the details like information about venues , artists and nightlife of Pokhara.
+App will provides information about all the events happening in around Pokhara with all the details like information about venues,artists and nightlife of Pokhara.This app was build as  part of my Final year university project.
 
 ## Getting Started
 ### How to Configure?
