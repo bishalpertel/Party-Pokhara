@@ -8,3 +8,4 @@ App will provides information about all the events happening in around Pokhara w
 3. Add Dart Plugin: File > Settings > Plugin (From market place add Search "Dart" and install)
 4. Get Dependencies Before Running the project.
 5. Run Project in Emulator or Device# party-pokhara
+# party-pokhara
